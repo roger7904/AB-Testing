@@ -1,0 +1,6 @@
+<defaultsMap><!-- 可設定多組 key value -->
+    <entry>
+        <key>sign_up_type</key>
+        <value>facebook</value>
+    </entry>
+</defaultsMap>
