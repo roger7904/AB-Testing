@@ -3,4 +3,9 @@
         <key>sign_up_type</key>
         <value>facebook</value>
     </entry>
+
+    <entry>
+        <key>new_feature_enabled</key>
+        <value>true</value>
+    </entry>
 </defaultsMap>
