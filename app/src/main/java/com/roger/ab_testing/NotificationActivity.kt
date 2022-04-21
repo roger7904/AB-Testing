@@ -16,8 +16,8 @@ class NotificationActivity : AppCompatActivity() {
 
         firebaseAnalytics = Firebase.analytics
 
-        firebaseAnalytics.logEvent("notification_follow_up_behavior") {
-            param("notification_follow_up_behavior", "click")
+        firebaseAnalytics.logEvent("notification_behavior") {
+            param("notification_behavior", "click")
         }
     }
 }
