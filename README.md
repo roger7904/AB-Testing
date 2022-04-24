@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-<img src="docs/ui1.png" width="200" height="412"/>
-<img src="docs/ui2.png" width="200" height="412"/>
+  <img src="docs/ui1.png" width="200" height="412"/>
+  <img src="docs/ui2.png" width="200" height="412"/>
+  <img src="docs/ui3.png" width="200" height="412"/>
 </div>
 
 ***
