@@ -3,7 +3,7 @@
 
 <div align="center">
 
-有興趣了解詳細內容可以觀看 <a href="https://medium.com/@rogerchang7904/android-jetpack-paging-3-using-rxjava-910bfd937d14">Medium 教學文章</a>
+有興趣了解詳細內容可以觀看 <a href="https://medium.com/@rogerchang7904/android-a-b-testing-with-firebase-63e877aa49bf">Medium 教學文章</a>
   
 ![Kotlin](https://img.shields.io/badge/Kotlin-Language-purple?logo=Kotlin)
 <br />
